@@ -1,0 +1,94 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1681660650259,4948,https://eticket.railway.gov.bd/en,200,OK,Thread Group 1-1,text,true,,1941339,44489,1,1,https://eticket.railway.gov.bd/en,1042,0,697
+1681660650259,1220,https://eticket.railway.gov.bd/en-0,200,OK,Thread Group 1-1,text,true,,284349,509,1,1,https://eticket.railway.gov.bd/en,1042,0,697
+1681660651644,463,https://eticket.railway.gov.bd/en-1,200,OK,Thread Group 1-1,bin,true,,2074,1387,1,1,https://d19qjkjk65tfln.cloudfront.net:443/img/favicon.ico,82,0,0
+1681660651644,82,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,364,854,0,0,https://eticket.railway.gov.bd/img/favicon.ico,82,0,0
+1681660651726,381,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-2,bin,true,,1710,533,0,0,https://d19qjkjk65tfln.cloudfront.net:443/img/favicon.ico,381,0,87
+1681660651646,175,https://eticket.railway.gov.bd/en-2,200,OK,Thread Group 1-1,text,true,,94115,542,1,1,https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js,137,0,109
+1681660651649,657,https://eticket.railway.gov.bd/en-3,200,OK,Thread Group 1-1,text,true,,5505,1399,1,1,https://d19qjkjk65tfln.cloudfront.net:443/js/bootstrap-modal.js,321,0,239
+1681660651649,321,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,370,860,0,0,https://eticket.railway.gov.bd/js/bootstrap-modal.js,321,0,239
+1681660651970,336,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-4,text,true,,5135,539,0,0,https://d19qjkjk65tfln.cloudfront.net:443/js/bootstrap-modal.js,336,0,50
+1681660651652,264,https://eticket.railway.gov.bd/en-4,200,OK,Thread Group 1-1,text,true,,102549,545,1,1,https://maxcdn.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css,195,0,134
+1681660651651,727,https://eticket.railway.gov.bd/en-5,200,OK,Thread Group 1-1,text,true,,33609,1399,1,1,https://d19qjkjk65tfln.cloudfront.net:443/css/jquery-ui.css?v=2,315,0,239
+1681660651651,315,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,370,860,0,0,https://eticket.railway.gov.bd/css/jquery-ui.css?v=2,315,0,239
+1681660651966,412,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-6,text,true,,33239,539,0,0,https://d19qjkjk65tfln.cloudfront.net:443/css/jquery-ui.css?v=2,353,0,51
+1681660651651,122,https://eticket.railway.gov.bd/en-6,200,OK,Thread Group 1-1,text,true,,16711,574,1,1,https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.min.css,119,0,105
+1681660651826,554,https://eticket.railway.gov.bd/en-7,200,OK,Thread Group 1-1,text,true,,91596,1417,1,1,https://d19qjkjk65tfln.cloudfront.net:443/css/shohoz_style.css?v=10.0.19,77,0,0
+1681660651826,77,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,379,869,0,0,https://eticket.railway.gov.bd/css/shohoz_style.css?v=10.0.19,77,0,0
+1681660651903,477,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-8,text,true,,91217,548,0,0,https://d19qjkjk65tfln.cloudfront.net:443/css/shohoz_style.css?v=10.0.19,350,0,41
+1681660652108,389,https://eticket.railway.gov.bd/en-8,200,OK,Thread Group 1-1,text,true,,3549,1397,1,1,https://d19qjkjk65tfln.cloudfront.net:443/css/meanmenu.min.css,76,0,0
+1681660652108,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,369,859,0,0,https://eticket.railway.gov.bd/css/meanmenu.min.css,76,0,0
+1681660652185,312,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-2,text,true,,3180,538,0,0,https://d19qjkjk65tfln.cloudfront.net:443/css/meanmenu.min.css,312,0,0
+1681660652313,384,https://eticket.railway.gov.bd/en-9,200,OK,Thread Group 1-1,text,true,,7042,1397,1,1,https://d19qjkjk65tfln.cloudfront.net:443/css/template.css?v=1,81,0,0
+1681660652313,81,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,369,859,0,0,https://eticket.railway.gov.bd/css/template.css?v=1,81,0,0
+1681660652394,303,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-4,text,true,,6673,538,0,0,https://d19qjkjk65tfln.cloudfront.net:443/css/template.css?v=1,302,0,0
+1681660652340,451,https://eticket.railway.gov.bd/en-10,200,OK,Thread Group 1-1,text,true,,29707,1443,1,1,https://d19qjkjk65tfln.cloudfront.net:443/font-awesome-4.3.0/css/font-awesome.css?v=2,78,0,0
+1681660652340,78,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,392,882,0,0,https://eticket.railway.gov.bd/font-awesome-4.3.0/css/font-awesome.css?v=2,78,0,0
+1681660652418,373,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-7,text,true,,29315,561,0,0,https://d19qjkjk65tfln.cloudfront.net:443/font-awesome-4.3.0/css/font-awesome.css?v=2,319,0,0
+1681660652518,422,https://eticket.railway.gov.bd/en-11,200,OK,Thread Group 1-1,text,true,,1270,1385,1,1,https://d19qjkjk65tfln.cloudfront.net:443/css/loader.css,76,0,0
+1681660652518,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,363,853,0,0,https://eticket.railway.gov.bd/css/loader.css,76,0,0
+1681660652594,346,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-6,text,true,,907,532,0,0,https://d19qjkjk65tfln.cloudfront.net:443/css/loader.css,346,0,0
+1681660652516,81,https://eticket.railway.gov.bd/en-12,200,OK,Thread Group 1-1,text,true,,8535,874,1,1,https://eticket.railway.gov.bd/dist/css/home-style.min.css?v=1.0.2,81,0,0
+1681660652646,382,https://eticket.railway.gov.bd/en-13,200,OK,Thread Group 1-1,text,true,,1439,1427,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/styles/learn.css?v=1.4.10,76,0,0
+1681660652646,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,384,874,0,0,https://eticket.railway.gov.bd/v2/assets/styles/learn.css?v=1.4.10,76,0,0
+1681660652722,306,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-2,text,true,,1055,553,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/styles/learn.css?v=1.4.10,306,0,0
+1681660652705,218,https://eticket.railway.gov.bd/en-14,200,OK,Thread Group 1-1,bin,true,,9454,1439,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/bangladesh-railway.png,79,0,0
+1681660652705,79,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,390,880,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/bangladesh-railway.png,79,0,0
+1681660652784,139,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-5,bin,true,,9064,559,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/bangladesh-railway.png,139,0,0
+1681660652707,497,https://eticket.railway.gov.bd/en-15,200,OK,Thread Group 1-1,bin,true,,52824,1423,1,1,https://d19qjkjk65tfln.cloudfront.net:443/img/bangladesh-railway-loader.gif,76,0,0
+1681660652707,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,382,872,0,0,https://eticket.railway.gov.bd/img/bangladesh-railway-loader.gif,76,0,0
+1681660652784,420,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-4,bin,true,,52442,551,0,0,https://d19qjkjk65tfln.cloudfront.net:443/img/bangladesh-railway-loader.gif,363,0,61
+1681660652747,93,https://eticket.railway.gov.bd/en-16,200,OK,Thread Group 1-1,bin,true,,45171,900,1,1,https://eticket.railway.gov.bd/v2/assets/img/home/home-banner-campaign-10-04-2023.webp?v=1.0,81,0,0
+1681660652846,998,https://eticket.railway.gov.bd/en-17,200,OK,Thread Group 1-1,bin,true,,94885,1467,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/Campaign-Banner-Nagad-13-04-2023.png,76,0,0
+1681660652846,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,404,894,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/Campaign-Banner-Nagad-13-04-2023.png,76,0,0
+1681660652922,922,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-8,bin,true,,94481,573,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/Campaign-Banner-Nagad-13-04-2023.png,292,0,0
+1681660652849,2358,https://eticket.railway.gov.bd/en-18,200,OK,Thread Group 1-1,bin,true,,128383,1465,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/Campaign-Banner-DBBL-13-04-2023.png,75,0,0
+1681660652849,75,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,403,893,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/Campaign-Banner-DBBL-13-04-2023.png,75,0,0
+1681660652925,2282,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-7,bin,true,,127980,572,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/Campaign-Banner-DBBL-13-04-2023.png,276,0,0
+1681660652924,902,https://eticket.railway.gov.bd/en-19,200,OK,Thread Group 1-1,bin,true,,144053,1467,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/Campaign-Banner-Megna-13-04-2023.png,77,0,0
+1681660652924,77,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,404,894,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/Campaign-Banner-Megna-13-04-2023.png,77,0,0
+1681660653002,824,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-5,bin,true,,143649,573,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/Campaign-Banner-Megna-13-04-2023.png,295,0,0
+1681660652942,1412,https://eticket.railway.gov.bd/en-20,200,OK,Thread Group 1-1,text,true,,98076,1415,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/search.svg,78,0,0
+1681660652942,78,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,378,868,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/search.svg,78,0,0
+1681660653020,1334,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-6,text,true,,97698,547,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/search.svg,1143,0,39
+1681660653030,768,https://eticket.railway.gov.bd/en-21,200,OK,Thread Group 1-1,text,true,,16940,1415,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/select.svg,77,0,0
+1681660653030,78,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,378,868,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/select.svg,77,0,0
+1681660653108,690,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-2,text,true,,16562,547,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/select.svg,689,0,0
+1681660653204,523,https://eticket.railway.gov.bd/en-22,200,OK,Thread Group 1-1,text,true,,12098,1409,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/pay.svg,76,0,0
+1681660653204,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,375,865,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/pay.svg,76,0,0
+1681660653281,446,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-4,text,true,,11723,544,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/pay.svg,446,0,0
+1681660653728,295,https://eticket.railway.gov.bd/en-23,200,OK,Thread Group 1-1,bin,true,,67442,1451,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/instruction-secion-image.png,75,0,0
+1681660653728,75,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,396,886,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/instruction-secion-image.png,75,0,0
+1681660653804,219,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-4,bin,true,,67046,565,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/instruction-secion-image.png,128,0,0
+1681660653798,192,https://eticket.railway.gov.bd/en-24,200,OK,Thread Group 1-1,bin,true,,1916,1413,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/bkash.png,76,0,0
+1681660653798,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,377,867,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/bkash.png,76,0,0
+1681660653874,116,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-2,bin,true,,1539,546,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/bkash.png,116,0,0
+1681660653827,202,https://eticket.railway.gov.bd/en-25,200,OK,Thread Group 1-1,bin,true,,3651,1419,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/nagad-32.png,75,0,0
+1681660653827,75,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,380,870,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/nagad-32.png,75,0,0
+1681660653902,127,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-5,bin,true,,3271,549,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/nagad-32.png,127,0,0
+1681660653845,564,https://eticket.railway.gov.bd/en-26,200,OK,Thread Group 1-1,text,true,,35440,1415,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/rocket.svg,74,0,0
+1681660653845,74,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,378,868,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/rocket.svg,74,0,0
+1681660653920,489,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-8,text,true,,35062,547,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/rocket.svg,293,0,0
+1681660653990,273,https://eticket.railway.gov.bd/en-27,200,OK,Thread Group 1-1,bin,true,,2442,1425,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/master-card.png,75,0,0
+1681660653990,75,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,383,873,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/master-card.png,75,0,0
+1681660654065,198,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-2,bin,true,,2059,552,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/master-card.png,198,0,0
+1681660654024,356,https://eticket.railway.gov.bd/en-28,200,OK,Thread Group 1-1,bin,true,,2819,1411,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/visa.png,76,0,0
+1681660654024,76,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,376,866,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/visa.png,76,0,0
+1681660654100,280,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-4,bin,true,,2443,545,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/visa.png,280,0,0
+1681660654030,374,https://eticket.railway.gov.bd/en-29,200,OK,Thread Group 1-1,text,true,,6630,1425,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/nexus-debit.svg,77,0,0
+1681660654030,77,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,383,873,0,0,https://eticket.railway.gov.bd/v2/assets/img/home/nexus-debit.svg,77,0,0
+1681660654107,297,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-5,text,true,,6247,552,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/home/nexus-debit.svg,297,0,0
+1681660654264,272,https://eticket.railway.gov.bd/en-30,200,OK,Thread Group 1-1,text,true,,1240,1413,1,1,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/icon/cross.svg,95,0,0
+1681660654264,95,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,377,867,0,0,https://eticket.railway.gov.bd/v2/assets/img/icon/cross.svg,95,0,0
+1681660654360,176,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-2,text,true,,863,546,0,0,https://d19qjkjk65tfln.cloudfront.net:443/v2/assets/img/icon/cross.svg,176,0,46
+1681660654355,193,https://eticket.railway.gov.bd/en-31,200,OK,Thread Group 1-1,text,true,,30040,543,1,1,https://maxcdn.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js,184,0,126
+1681660654381,50,https://eticket.railway.gov.bd/en-32,200,OK,Thread Group 1-1,text,true,,34700,572,1,1,https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js,47,0,29
+1681660654407,74,https://eticket.railway.gov.bd/en-33,200,OK,Thread Group 1-1,text,true,,229537,547,1,1,https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js,53,0,31
+1681660654409,234,https://eticket.railway.gov.bd/en-34,200,OK,Thread Group 1-1,text,true,,6616,1421,1,1,https://d19qjkjk65tfln.cloudfront.net:443/js/modernizr.custom.2.6.2.min.js,77,0,0
+1681660654409,77,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,381,871,0,0,https://eticket.railway.gov.bd/js/modernizr.custom.2.6.2.min.js,77,0,0
+1681660654487,156,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-8,text,true,,6235,550,0,0,https://d19qjkjk65tfln.cloudfront.net:443/js/modernizr.custom.2.6.2.min.js,156,0,33
+1681660654432,383,https://eticket.railway.gov.bd/en-35,200,OK,Thread Group 1-1,text,true,,4974,1407,1,1,https://d19qjkjk65tfln.cloudfront.net:443/js/jquery.meanmenu.min.js,79,0,0
+1681660654432,79,https://eticket.railway.gov.bd/en-0,301,Moved Permanently,,text,true,,374,864,0,0,https://eticket.railway.gov.bd/js/jquery.meanmenu.min.js,79,0,0
+1681660654511,304,https://eticket.railway.gov.bd/en-1,200,OK,ResDownload-Thread-4,text,true,,4600,543,0,0,https://d19qjkjk65tfln.cloudfront.net:443/js/jquery.meanmenu.min.js,304,0,31
+1681660654482,523,https://eticket.railway.gov.bd/en-36,200,OK,Thread Group 1-1,text,true,,229958,532,1,1,https://www.googletagmanager.com/gtag/js?id=G-Y4CW6X15DG,231,0,142
+1681660655222,269,https://eticket.railway.gov.bd/booking/train/search-route?fromcity=Dhaka&tocity=Chattogram&doj=17-Apr-2023&class=AC_CHAIR,200,OK,Thread Group 1-1,text,true,,698,801,1,1,https://eticket.railway.gov.bd/booking/train/search-route?fromcity=Dhaka&tocity=Chattogram&class=AC_CHAIR&doj=17-Apr-2023,269,0,0
